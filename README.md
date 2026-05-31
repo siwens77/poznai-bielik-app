@@ -40,7 +40,7 @@ Sercem aplikacji są dwa modele AI dostępne przez PCSS:
 Skopiuj repozytorium i zainstaluj pakiety Node.js:
 
 ```bash
-git clone [https://github.com/pawelsiurek/poznai-bielik-starter](https://github.com/pawelsiurek/poznai-bielik-starter)
+git clone [https://github.com/siwens77/poznai-bielik-app](https://github.com/siwens77/poznai-bielik-app)
 cd inteligentne-fiszki/node
 npm install
 
